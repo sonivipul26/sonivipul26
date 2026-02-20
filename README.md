@@ -4,10 +4,10 @@
 
 **Full Stack Developer · MERN Stack · CS Student**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vipul-soni-3447a328a)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonivipul26)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vipulktp26/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vipulktp26@gmail.com)
+<a href="https://linkedin.com/in/vipul-soni-3447a328a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/sonivipul26" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/u/vipulktp26/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="mailto:vipulktp26@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
@@ -56,7 +56,7 @@ I'm a Computer Science student passionate about building scalable, full-stack we
 
 ## 🚀 Featured Projects
 
-### 📋 [PMS — Project Management System](https://github.com/sonivipul26)
+### 📋 <a href="https://github.com/sonivipul26" target="_blank">PMS — Project Management System</a>
 > A full-stack project management application built with the MERN stack.
 
 - Enables teams to create, track, and manage projects and tasks
@@ -66,7 +66,7 @@ I'm a Computer Science student passionate about building scalable, full-stack we
 
 ---
 
-### 🦠 [Malware Classification using CNN](https://github.com/sonivipul26)
+### 🦠 <a href="https://github.com/sonivipul26" target="_blank">Malware Classification using CNN</a>
 > A deep learning pipeline for detecting and classifying malware from grayscale image representations.
 
 - Converts binary malware samples into grayscale image matrices
@@ -76,7 +76,7 @@ I'm a Computer Science student passionate about building scalable, full-stack we
 
 ---
 
-### 💱 [Currency Converter — Java](https://github.com/sonivipul26)
+### 💱 <a href="https://github.com/sonivipul26" target="_blank">Currency Converter — Java</a>
 > A console-based currency converter application built in Java.
 
 - Supports multiple currency conversions with live rate logic
@@ -85,7 +85,7 @@ I'm a Computer Science student passionate about building scalable, full-stack we
 
 ---
 
-### 🌐 [Portfolio Website](https://github.com/sonivipul26)
+### 🌐 <a href="https://github.com/sonivipul26" target="_blank">Portfolio Website</a>
 > A personal developer portfolio to showcase projects, skills, and experience.
 
 - Built with React.js and Tailwind CSS
@@ -98,8 +98,10 @@ I'm a Computer Science student passionate about building scalable, full-stack we
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sonivipul26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonivipul26&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonivipul26&theme=tokyonight" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonivipul26&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sonivipul26&theme=tokyonight" height="180"/>
 
 </div>
 
