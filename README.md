@@ -6,8 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vipul-soni-3447a328a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonivipul26)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vipulktp26@email.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vipulktp26/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vipulktp26@gmail.com)
 
 </div>
 
@@ -21,7 +21,7 @@ I'm a Computer Science student passionate about building scalable, full-stack we
 - 🧠 Exploring **System Design** and scalable application architecture
 - 🤖 Experimenting with **Deep Learning** for real-world classification problems
 - 📈 Consistently sharpening my **Data Structures & Algorithms** skills on LeetCode
-- 📫 Reach me at **vipulktp26@email.com**
+- 📫 Reach me at **vipulktp26@gmail.com**
 
 ---
 
@@ -98,8 +98,18 @@ I'm a Computer Science student passionate about building scalable, full-stack we
 
 <div align="center">
 
-![Vipul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonivipul26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonivipul26&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=sonivipul26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonivipul26&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sonivipul26&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -109,7 +119,7 @@ I'm a Computer Science student passionate about building scalable, full-stack we
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/sonivipul26?theme=dark&font=Nunito&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/vipulktp26?theme=dark&font=Nunito&ext=contest)
 
 </div>
 
